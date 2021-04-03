@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872318242733",
+    "project_id": "handicraft-eb63a",
+    "storage_bucket": "handicraft-eb63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872318242733:android:e8b6531b1aafcad9f2db24",
+        "android_client_info": {
+          "package_name": "com.myshoppal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872318242733-6ufa0cih4sq6u6ltuhhkmuhukjppk99k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSB69q-0aI6rcbIPWOLbzRdrre3-3g-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872318242733-6ufa0cih4sq6u6ltuhhkmuhukjppk99k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
